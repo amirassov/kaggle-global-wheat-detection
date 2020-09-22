@@ -1,4 +1,4 @@
-# :ear_of_rice: 11th Place Solution of [Global Wheat Detection](https://www.kaggle.com/c/global-wheat-detection)
+# :ear_of_rice: 9th Place Solution of [Global Wheat Detection](https://www.kaggle.com/c/global-wheat-detection)
 
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F413252%2F8115a3b84299209abd11cd8e7167e31e%2FSelection_149.png?generation=1598252059641875&alt=media)
 

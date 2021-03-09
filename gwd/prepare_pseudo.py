@@ -13,6 +13,7 @@ def parse_args():
     parser.add_argument("--ann-file", default="/data/coco_crops_fold0.json")
     parser.add_argument("--output-path", default="/data/folds_v2/0/coco_pseudo_train.json")
     parser.add_argument("--predictions-path", default="/data/crops_fold0_predictions.pkl")
+    parser.add_argument("--fold", default=0, type=int)
     return parser.parse_args()
 
 

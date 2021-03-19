@@ -37,7 +37,7 @@ pandas==1.0.3             # via -r requirements.in, ensemble-boxes
 parso==0.7.0              # via jedi
 pexpect==4.8.0            # via ipython
 pickleshare==0.7.5        # via ipython
-pillow==6.2.2             # via -r requirements.in, imageio, scikit-image, torchvision
+pillow>=8.1.1             # via -r requirements.in, imageio, scikit-image, torchvision
 pluggy==0.13.1            # via pytest
 prompt-toolkit==3.0.5     # via ipython
 ptyprocess==0.6.0         # via pexpect

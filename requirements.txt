@@ -41,14 +41,14 @@ pillow>=8.1.1             # via -r requirements.in, imageio, scikit-image, torch
 pluggy==0.13.1            # via pytest
 prompt-toolkit==3.0.5     # via ipython
 ptyprocess==0.6.0         # via pexpect
-py==1.8.1                 # via pytest
-pygments==2.6.1           # via ipython
+py>=1.10.0               # via pytest
+Pygments>=2.7.4           # via ipython
 pyparsing==2.4.7          # via matplotlib, packaging
 pytest==5.4.2             # via -r requirements.in
 python-dateutil==2.8.1    # via matplotlib, pandas
 pytz==2020.1              # via pandas
 pywavelets==1.1.1         # via scikit-image
-pyyaml==5.3.1             # via albumentations, mmcv
+PyYAML>=5.4            # via albumentations, mmcv
 scikit-image==0.17.2      # via imgaug
 scikit-learn==0.23.2      # via iterative-stratification
 scipy==1.4.1              # via albumentations, imgaug, iterative-stratification, scikit-image, scikit-learn
